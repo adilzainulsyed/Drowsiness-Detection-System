@@ -1,1 +1,3 @@
 # Drowsiness-Detection-System
+
+This project focuses on building a real-time drowsiness detection system using deep learning and embedded systems. Unlike traditional Eye Aspect Ratio (EAR)–based approaches, this system uses a Convolutional Neural Network (CNN) to classify eye states (open or closed) with higher robustness under varying lighting conditions, facial features, and spectacles. The system integrates computer vision, deep learning, and hardware alerts to enhance road safety.
